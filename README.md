@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">Student at Higher Technical College Leonding</h3>
+<h3 align="center">Student at UAP Hagenberg Digital Campus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukmayr&label=Profile%20views&color=0e75b6&style=flat" alt="lukmayr" /> </p>
-
-- 🔭 I’m currently working on [HTL-Streaming Website](https://github.com/ManuelPuchner/htl-leonding-streaming-website-backend)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
